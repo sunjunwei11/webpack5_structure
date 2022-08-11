@@ -1,0 +1,21 @@
+body {
+    .box {
+        width: 100px;
+        height: 100px;
+        border: solid 1px purple;
+        margin-top: 10px;
+        display: flex;
+        align-items: center;
+    }
+    .shit {
+        width: 200px;
+        height: 100px;
+        background: url(../assets/img/Shit.png);
+        background-size: 100% 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .iconfont {
+        color: green;
+    }
+}

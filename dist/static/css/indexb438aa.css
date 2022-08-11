@@ -1,0 +1,64 @@
+/*!*************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/iconfont.scss ***!
+  \*************************************************************************************************************************************************************/
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url(../../static/media/iconfont[chunkhash:10].ttf?t=1660038820108) format("truetype");
+}
+.iconfont {
+  font-family: "iconfont" !important;
+}
+.iconfont {
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sheying:before {
+  content: "\e60a";
+}
+
+.icon-a-liaotian_huaban1:before {
+  content: "\e60b";
+}
+
+.icon-chonglang:before {
+  content: "\e60c";
+}
+
+.icon-youxi:before {
+  content: "\e60d";
+}
+
+.icon-qihang:before {
+  content: "\e60e";
+}
+/*!**********************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/index.scss ***!
+  \**********************************************************************************************************************************************************/
+body .box {
+  width: 100px;
+  height: 100px;
+  border: solid 1px purple;
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+body .shit {
+  width: 200px;
+  height: 100px;
+  background: url(../../static/media/Shit[chunkhash:10].png);
+  background-size: 100% 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+body .iconfont {
+  color: green;
+}
+
+/*# sourceMappingURL=indexb438aa.css.map*/
